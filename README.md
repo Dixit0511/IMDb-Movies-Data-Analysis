@@ -1,5 +1,7 @@
 # IMDb Movies Data Analysis Dashboard
+## Dashboard Preview
 
+![Dashboard](Screenshot%202026-07-19%20162626.png)
 ## Project Overview
 This project analyzes IMDb movie data using Microsoft Excel. The dataset was cleaned, transformed, and analyzed to identify trends and generate meaningful insights.
 
